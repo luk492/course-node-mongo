@@ -68,7 +68,7 @@ UserSchema.methods.removeToken = function(token) {
                 token
             }
         }
-    })
+    });
 };
 
 // model method
